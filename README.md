@@ -1,4 +1,4 @@
-# Good README Generator
+# README Generator
 ```
 Next assignment.
 
