@@ -122,10 +122,9 @@ $ npm install && npm test
 
 ## Questions
 
-### Links
+[My Github Profile](https://github.com/hjlogique).
 
-* [My Github Profile: ](https://github.com/hjlogique).
-*  For any questions please contact me at: <email@example.com>  [mailto](mailto:email@example.com) 
+For any questions please contact me at: <email@example.com>  [mailto](mailto:email@example.com) 
 
 ### License
 Copyright © 2020, [Henry Jean Logique](https://github.com/hjlogique).
