@@ -1,9 +1,6 @@
 # Project Title  
-### Author
 
-**Henry Jean Logique**
-
-[github/hjlogique](https://github.com/hjlogique)
+[By Henry Jean Logique](https://github.com/hjlogique)
 
 Released under the [MIT License](LICENSE).
 
