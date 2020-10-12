@@ -1,10 +1,9 @@
 # Project Title  
 ### Author
 
-**Henry Jeab Logique**
-
-* [github/jonschlinkert](https://github.com/hjlogique)
-Released under the [MIT License](LICENSE).
+**Henry Jean Logique**
+[github/hjlogique](https://github.com/hjlogique)
+_Released under the [MIT License](LICENSE).
 
 ## Description
 
@@ -31,7 +30,6 @@ $ npm install --save markdown-toc
 ## Usage
 
 ```
-Usage: markdown-toc [options] <input>
 
   input:        The Markdown file to parse for table of contents,
                 or "-" to read from stdin.
@@ -55,14 +53,6 @@ Usage: markdown-toc [options] <input>
   --no-stripHeadingTags: Do not strip extraneous HTML tags from heading
                          text before slugifying
 ```
-
-## Highlights
-
-**Features**
-
-* Can optionally be used as a [remarkable](https://github.com/) plugin
-* Returns an object with the rendered TOC (on `content`), as well as a `json` property with the raw TOC object, so you can generate your own TOC using templates or however you want
-
 
 ## Usage
 
@@ -142,5 +132,6 @@ $ npm install && npm test
 ## License
 Copyright © 2020, [Henry Jean Logique](https://github.com/hjlogique).
 Released under the [MIT License](LICENSE).
-Notice: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+_Notice: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 ***
