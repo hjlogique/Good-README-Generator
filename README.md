@@ -2,8 +2,10 @@
 ### Author
 
 **Henry Jean Logique**
+
 [github/hjlogique](https://github.com/hjlogique)
-_Released under the [MIT License](LICENSE).
+
+Released under the [MIT License](LICENSE).
 
 ## Description
 
@@ -133,5 +135,5 @@ $ npm install && npm test
 Copyright © 2020, [Henry Jean Logique](https://github.com/hjlogique).
 Released under the [MIT License](LICENSE).
 
-_Notice: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+Notice: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 ***
