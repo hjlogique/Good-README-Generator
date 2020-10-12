@@ -112,14 +112,6 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 | 1   | [contributor5](https://github.com/maxogden) |  
 
 
-## Questions
-
-### Links
-
-* [My Github Profile: ](https://github.com/hjlogique).
-*  For any questions please contact me at: <email@example.com>  [mailto](mailto:email@example.com) 
-
-
 ## Tests
 
 Running and reviewing unit tests is a great way to get familiarized with a library and its API. You can install dependencies and run tests with the following command:
@@ -128,7 +120,14 @@ Running and reviewing unit tests is a great way to get familiarized with a libra
 $ npm install && npm test
 ```
 
-## License
+## Questions
+
+### Links
+
+* [My Github Profile: ](https://github.com/hjlogique).
+*  For any questions please contact me at: <email@example.com>  [mailto](mailto:email@example.com) 
+
+### License
 Copyright © 2020, [Henry Jean Logique](https://github.com/hjlogique).
 Released under the [MIT License](LICENSE).
 
