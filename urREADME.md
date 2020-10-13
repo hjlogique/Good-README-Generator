@@ -1,44 +1,43 @@
-# ReadMeGenerator
+# README-Generator
 
-  ![Badge for GitHub repository top](https://img.shields.io/github/languages/top/hjlogique/ReadMeGenerator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/ReadMeGenerator?style=flat&logo=appveyor)
+  ![Badge for GitHub repository top](https://img.shields.io/github/languages/top/hjlogique/README-Generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/README-Generator?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
   
   
   ## Description 
   
-  jvkjvhkjvhdkvhavhavhaljvhlakvhlabvhalbhabhlabhalbhalbhalbhlahfblhahabhahb
+  ghfhfgdfhgdfhgdfhdfhdhdfghdhdhdhdhdhdhdfhdfghdfhdhfdh
 
-  
-  * [License](#license)## Table of Contents
+  ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [License](#license)
   
   ## Installation
   
   *How to install and run the project:*
   
-  vhljvhaljvhlvjhlvhvlhhlvhlvjhalvjahvvjahjvaklahvlvajhvlahlsdhsv
+  ghfhfgdfhgdfhgdfhdfhdhdfghdhdhdhdhdhdhdfhdfghdfhdhfdh
   
   ## Usage 
   
   *How to use the project and some examples:*
   
-  lvjhajlkvhalkvhavhajlkjvhalkvhalvkahlkvhalvjhalvhlakvhlahvalhlahvlahv
+  ghfhfgdfhgdfhgdfhdfhdhdfghdhdhdhdhdhdhdfhdfghdfhdhfdh
   
   ## Tests
   
   *Tests for application and how to run them:*
   
-  lkahflahflahfalhfjalhfdlajhfaljhfalfdhalfhalkfhkalhakf
+  ghfhfgdfhgdfhgdfhdfhdhdfghdhdhdhdhdhdhdfhdfghdfhdhfdh
   
   ## License
   
   MIT License
   
-  ---
   
   ## Questions?
   
