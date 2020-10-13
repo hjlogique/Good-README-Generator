@@ -131,9 +131,14 @@ function generateRM(uAnswers, uInfo) {
 
 // README main Content 
 
-let mainContent = `# ${uAnswers.projTitle}
 
-[![${uAnswers.license}](https://img.shields.io/badge/${uAnswers.gitUname}-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+let mainContent = `
+
+[![${uAnswers.license}](https://img.shields.io/badge/${uAnswers.license.replace(/\s+/g, '-')}-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+
+# ${uAnswers.projTitle}
+
+
   ## Description 
   
   ${uAnswers.projDesc}
@@ -217,20 +222,30 @@ let contact =
   
   ## Questions?
   
-  [My GitHub:](${uInfo.url})
-  [My GitHub:](https://github.com/${uAnswers.gitUname})
+  [My GitHub:](${uInfo.html_url})
 
   If you have any questions, please contact me via email:
   `;
 
-// Email
+// Provided email
+
 if (uAnswers.email !== null) {
   contact +=
     `
 
   Email: ${uAnswers.email}
-  Email: ${uInfo.email}
+  
   `};
+
+  // If retreived GitHub email exits and is not the same as the one provided
+
+if (uInfo.email !== null && uInfo.email !== uAnswers.email) { 
+    contact +=
+      `
+  
+    Email: ${uInfo.email}
+    
+    `};
 
 // Add Contact section
 mainContent += contact;
