@@ -4,14 +4,10 @@
 
 # README-Generator
 
-<<<<<<< HEAD
-[![MIT License](https://img.shields.io/badge/MIT-License-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-=======
 
->>>>>>> Checking the format of the egenerated ReadMe file
   ## Description 
   
-  dsBk;bam;ba;Bm'albmab,maa,mbA,mbABmaBa'b;aklb'abma:BaB<aB,aB,a:B<a
+  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
 
   ## Table of Contents
   * [Installation](#installation)
@@ -26,19 +22,19 @@
   
   *How to install and run the project:*
   
-  dsBk;bam;ba;Bm'albmab,maa,mbA,mbABmaBa'b;aklb'abma:BaB<aB,aB,a:B<a
+  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
   
   ## Usage 
   
   *How to use the project and some examples:*
   
-  dsBk;bam;ba;Bm'albmab,maa,mbA,mbABmaBa'b;aklb'abma:BaB<aB,aB,a:B<a
+  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
   
   ## Contributing
   
   *To contribute to this project, please follow these guidelines.*
   
-  dsBk;bam;ba;Bm'albmab,maa,mbA,mbABmaBa'b;aklb'abma:BaB<aB,aB,a:B<a
+  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
   
   ## License
   
@@ -49,7 +45,7 @@
   
   *Tests for application and how to run them:*
   
-  dsBk;bam;ba;Bm'albmab,maa,mbA,mbABmaBa'b;aklb'abma:BaB<aB,aB,a:B<a
+  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
   
   ## Questions?
   
@@ -59,10 +55,5 @@
   
 
   Email: acc@yahoo.com
-<<<<<<< HEAD
-  Email: null
-  
-=======
   
   
->>>>>>> Checking the format of the egenerated ReadMe file
