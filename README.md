@@ -1,18 +1,17 @@
 
 
-[![MIT License](https://img.shields.io/badge/MIT-License-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+[![Boost Software License 1.0](https://img.shields.io/badge/Boost-Software-License-1.0-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
-# README-Generator
+# // License section
 
 
   ## Description 
   
-  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
+    ## License
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -22,30 +21,30 @@
   
   *How to install and run the project:*
   
-  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
+    `;gdgagagagagagagagagaga
   
   ## Usage 
   
   *How to use the project and some examples:*
   
-  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
+  agagagagagagagagagaga
   
   ## Contributing
   
   *To contribute to this project, please follow these guidelines.*
   
-  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
-  
-  ## License
-  
-  MIT License
-  
+  hsdhdhsdhdshshshshsghhshshshshghsshhghgs
   
   ## Tests
   
   *Tests for application and how to run them:*
   
-  bm/akl amdf/bkambAk/b;mbakb a;l nmagnamnknbjagfnkbja'glnkjgaf'nakjgnkajfn;kalfnjanjl;ngkja;njga;gnjag;nka'knamng'ajkn;akjn;knj
+  shsfhshshshshshshshshshsfhhfgh
+
+## License
+
+Boost Software License 1.0
+
   
   ## Questions?
   
@@ -54,6 +53,6 @@
   If you have any questions, please contact me via email:
   
 
-  Email: acc@yahoo.com
+  Email: ac@yahoo.com
   
   
