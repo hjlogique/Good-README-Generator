@@ -190,6 +190,16 @@ if (uAnswers.contributing !== '') {
 };
 
 
+// License section
+mainContent +=
+  `
+  
+  ## License
+  
+  ${uAnswers.license}
+  `;
+
+
 // Tests section
 if (uAnswers.tests !== '') {
   mainContent +=
@@ -233,15 +243,6 @@ if (uInfo.email !== null && uInfo.email !== uAnswers.email) {
     Email: ${uInfo.email}
     
     `};
-
-  // License section
-mainContent +=
-`
-
-## License
-
-${uAnswers.license}
-`;
 
 // Add Contact section
 mainContent += contact;
