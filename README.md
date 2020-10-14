@@ -1,13 +1,13 @@
 
 
-[![GNU LGPLv3](https://img.shields.io/badge/GNU-LGPLv3-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/badge/MIT-License-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
 # README-Generator
 
 
   ## Description 
   
-  sdhshsfghhshshshhsshshs sh shs hshshs hshs sh shsh sh sh hds hdhd hsh sh ssh shsh ss hs hs
+  gdhdhshsfghsfjsjsjsjsjsjsjsjsjjfffffffffffffjjhhgh dhddddddhhdhddddhdddddh hddhdhddddhggkglkajdl;gja;gjagja;lgjak l;jg;jsjg;skjg;sjg;sgj;gjs;jg;sjg;sjg;j;gsjsj j;sj;gjsjg;sjg;sjg;js;hjs;hjs;jhs;hj;sjh;sjhosjhosjhiuhoiueoihoihjajh;ajha;haj bjahjaijhao;jhaijhjajhajhoiajaoij ajhgajhajhioajhiajhahjajihjh;ajahjahja;jah;jh;ajh;djdfo;hj;ajha;j;ajadjha;jh;djh;djho;ajahj jdhsjhsj;hjs;hjshssjhs;jh;ajha;hja;jha;hja;jha;aj;haj;ajhalajhjahojhoadjh;odjahadojhaooaoijsijgoajeoeueourguyrgoahgho ahahahoahaohaaea
 
   ## Table of Contents
   * [Installation](#installation)
@@ -21,30 +21,30 @@
   
   *How to install and run the project:*
   
-  sdhshsfghhshshshhsshshs sh shs hshshs hshs sh shsh sh sh hds hdhd hsh sh ssh shsh ss hs hs
+  gdhdhshsfghsfjsjsjsjsjsjsjsjsjjfffffffffffffjjhhgh dhddddddhhdhddddhdddddh hddhdhddddhggkglkajdl;gja;gjagja;lgjak l;jg;jsjg;skjg;sjg;sgj;gjs;jg;sjg;sjg
   
   ## Usage 
   
   *How to use the project and some examples:*
   
-  sdhshsfghhshshshhsshshs sh shs hshshs hshs sh shsh sh sh hds hdhd hsh sh ssh shsh ss hs hs
+  ;j;gsjsj j;sj;gjsjg;sjg;sjg;js;hjs;hjs;jhs;hj;sjh;sjhosjhosjhiuhoiueoihoihjajh;ajha;haj bjahjaijhao;jhaijhjajhajhoiajaoij ajhgajhajhioajhiajhahjajihjh;ajahjahja;jah;jh;ajh;djdfo;hj;ajha;j;ajadjha;jh;d
   
   ## Contributing
   
   *To contribute to this project, please follow these guidelines.*
   
-  sdhshsfghhshshshhsshshs sh shs hshshs hshs sh shsh sh sh hds hdhd hsh sh ssh shsh ss hs hs
-  
-  ## License
-  
-  GNU LGPLv3
-  
+  gdhdhshsfghsfjsjsjsjsjsjsjsjsjjfffffffffffffjjhhgh dhddddddhhdhddddhdddddh hddhdhddddhggkglkajdl;gja;gjagja;lgjak l;jg;jsjg;skjg;sjg;sgj;gjs;jg;sjg;sjg
   
   ## Tests
   
   *Tests for application and how to run them:*
   
-  sdhshsfghhshshshhsshshs sh shs hshshs hshs sh shsh sh sh hds hdhd hsh sh ssh shsh ss hs hs
+  ;j;gsjsj j;sj;gjsjg;sjg;sjg;js;hjs;hjs;jhs;hj;sjh;sjhosjhosjhiuhoiueoihoihjajh;ajha;haj bjahjaijhao;jhaijhjajhajhoiajaoij ajhgajhajhioajhiajhahjajihjh;ajahjahja;jah;jh;ajh;djdfo;hj;ajha;j;ajadjha;jh;d
+  
+  ## License
+  
+  MIT License
+  
   
   ## Questions?
   
@@ -53,6 +53,6 @@
   If you have any questions, please contact me via email:
   
 
-  Email: acc@yahoo.com
+  Email: ac@yahoo.com
   
   
