@@ -1,10 +1,7 @@
 
 
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/README-Generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/README-Generator?style=flat&logo=appveyor)
+[![[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/README-Generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/README-Generator?style=flat&logo=appveyor)
   
-
-[![GNU AGPLv3](https://img.shields.io/badge/GNU-AGPLv3-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-
 # README-Generator
 
 
@@ -51,11 +48,11 @@
   If you have any questions, please contact me via email:
   
 
-  Email: acc@yahoo.com
+  Email: myemail@yahoo.com
   
   
   
   ## License
   
-  GNU AGPLv3
+  Mozilla Public License 2.0
   

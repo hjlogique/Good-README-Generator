@@ -126,8 +126,10 @@ function generateRM(uAnswers, uInfo) {
   * [Questions](#questions)`
 
 
-// README main Content 
-// Create the License badge
+// =================  README main Content  ===================
+
+// Create the License badge with a specific 
+// style based on the selected license type
 
 let licenses = ['GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'Boost Software License 1.0', 'The Unlicense'];
 
@@ -145,9 +147,6 @@ let mainContent = `
 
 ${badgeUrl} ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor)
   
-
-[![${uAnswers.license}](https://img.shields.io/badge/${uAnswers.license.replace(/\s+/g, '-')}-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-
 # ${uAnswers.projTitle}
 
 
