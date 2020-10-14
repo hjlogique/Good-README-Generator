@@ -123,7 +123,7 @@ function generateRM(uAnswers, uInfo) {
   * [Tests](#tests)` };
 
   toc += `
-  * [Questions](#questions)`
+  * [Questions](#contact)`
 
 
 // README main Content 
@@ -203,7 +203,9 @@ if (uAnswers.tests !== '') {
 };
 
 
-// Question section: Links to User's Profile and Email
+// Question section: Include contact info, which 
+// are links to User's Profile and Email
+
 let contact =
   `
   
@@ -224,7 +226,8 @@ if (uAnswers.email !== null) {
   
   `};
 
-  // If retreived GitHub email exits and is not the same as the one provided
+  // If retreived GitHub email exits and 
+  // is not the same as the one provided
 
 if (uInfo.email !== null && uInfo.email !== uAnswers.email) { 
     contact +=
@@ -234,6 +237,9 @@ if (uInfo.email !== null && uInfo.email !== uAnswers.email) {
     
   `};
 
+// Add Contact (Questions) section
+mainContent += contact;
+
 // License section
 mainContent +=
   `
@@ -242,9 +248,6 @@ mainContent +=
   
   ${uAnswers.license}
   `;
-
-// Add Contact section
-mainContent += contact;
 
 // Return main content
 return mainContent;
