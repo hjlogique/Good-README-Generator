@@ -123,7 +123,7 @@ function generateRM(uAnswers, uInfo) {
   * [Tests](#tests)` };
 
   toc += `
-  * [Questions](#contact)`
+  * [Questions](#questions)`
 
 
 // README main Content 
@@ -203,13 +203,11 @@ if (uAnswers.tests !== '') {
 };
 
 
-// Question section: Include contact info, which 
-// are links to User's Profile and Email
-
+// Question section: Links to User's Profile and Email
 let contact =
   `
   
-  ## Questions?
+  ## Questions
   
   [My GitHub:](${uInfo.html_url})
 
@@ -226,8 +224,7 @@ if (uAnswers.email !== null) {
   
   `};
 
-  // If retreived GitHub email exits and 
-  // is not the same as the one provided
+  // If retreived GitHub email exits and is not the same as the one provided
 
 if (uInfo.email !== null && uInfo.email !== uAnswers.email) { 
     contact +=
@@ -237,7 +234,7 @@ if (uInfo.email !== null && uInfo.email !== uAnswers.email) {
     
   `};
 
-// Add Contact (Questions) section
+// Add Contact section
 mainContent += contact;
 
 // License section
