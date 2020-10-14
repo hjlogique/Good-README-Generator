@@ -1,9 +1,9 @@
 
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/README-Generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/README-Generator?style=flat&logo=appveyor)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/README-Generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/README-Generator?style=flat&logo=appveyor)
   
 
-[![MIT License](https://img.shields.io/badge/MIT-License-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+[![GNU AGPLv3](https://img.shields.io/badge/GNU-AGPLv3-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
 # README-Generator
 
@@ -51,11 +51,11 @@
   If you have any questions, please contact me via email:
   
 
-  Email: ac@yahoo.com
+  Email: acc@yahoo.com
   
   
   
   ## License
   
-  MIT License
+  GNU AGPLv3
   

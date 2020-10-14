@@ -129,9 +129,21 @@ function generateRM(uAnswers, uInfo) {
 // README main Content 
 // Create the License badge
 
+let licenses = ['GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'Boost Software License 1.0', 'The Unlicense'];
+
+let badgeUrl = (uAnswers.license === licenses[0]) ? "[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)" :
+  (uAnswers.license === licenses[1]) ? "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)" :
+  (uAnswers.license === licenses[2]) ? "[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)" :
+  (uAnswers.license === licenses[3]) ? "[![[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)" :
+  (uAnswers.license === licenses[4]) ? "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)" :
+  (uAnswers.license === licenses[5]) ? "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)" :
+  (uAnswers.license === licenses[6]) ? "[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)" :
+  "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)";
+
+
 let mainContent = `
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor)
+${badgeUrl} ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor)
   
 
 [![${uAnswers.license}](https://img.shields.io/badge/${uAnswers.license.replace(/\s+/g, '-')}-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
