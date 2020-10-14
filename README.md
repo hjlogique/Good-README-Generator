@@ -1,6 +1,6 @@
 
 
-[![[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/README-Generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/README-Generator?style=flat&logo=appveyor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/hjlogique/README-Generator?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/hjlogique/README-Generator?style=flat&logo=appveyor)
   
 # README-Generator
 
@@ -54,5 +54,5 @@
   
   ## License
   
-  Mozilla Public License 2.0
+  MIT License
   
