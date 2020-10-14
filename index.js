@@ -131,6 +131,9 @@ function generateRM(uAnswers, uInfo) {
 
 let mainContent = `
 
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/${uAnswers.gitUname}/${uAnswers.gitRepo}?style=flat&logo=appveyor)
+  
+
 [![${uAnswers.license}](https://img.shields.io/badge/${uAnswers.license.replace(/\s+/g, '-')}-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
 # ${uAnswers.projTitle}
@@ -209,7 +212,7 @@ let contact =
   
   ## Questions
   
-  [My GitHub:](${uInfo.html_url})
+  [Link to my GitHub profile](${uInfo.html_url})
 
   If you have any questions, please contact me via email:
   `;
