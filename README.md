@@ -19,7 +19,7 @@ Steps:
   * [`axios`](https://www.npmjs.com/package/axios)
   * Next type `node index.js` to run the application. (watch the clip below)
 
-![Gif demo of README-generator](readme-demo.gif)
+![Gif demo of README-generator](readme-generator.mp4)
 
 The application uses the `inquirer` package to prompt you in the command line with a series of questions like Github username, project title, project description, table of contents, installation, usage, license, contributing guideline for other developers, e-mail, tests and questions.
 
