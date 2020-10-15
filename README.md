@@ -27,7 +27,7 @@ It takes your inputs, uses `axios` package to fetch your GitHub profile and emai
 
 It also utilizes some of the ES6 syntax and paradigms, including `arrow functions`, `const`, `let`, template literals, and `async/await` to handle the `inquirer`, `axios`, and `fs.writeFile` promises.
 
-Please preview the example urREADME file[`urREADME.md`](https://github.com/hjlogique/README-Generator/blob/main/urREADME.md) in this repository.
+Please preview the outcome README example file [`urREADME.md`](https://github.com/hjlogique/README-Generator/blob/main/urREADME.md) in this repository.
 
 
 ## Questions?
